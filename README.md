@@ -1,10 +1,10 @@
-# JavaScript - Countdown
+# JavaScript - Simple Quiz App
 
 ## Getting Started:
 
 Use `git clone` to clone this repo:
 ```console
-$ git clone https://github.com/kayee07/capstone-project.git
+$ git clone https://github.com/kayee07/javascript-quiz-app.git
 ```
 or
 
@@ -16,5 +16,5 @@ Click `Clone or download` and `Download ZIP` to get this repo.
 - Github: https://github.com/kayee07
 
 `Kayeshaa7 Account`:
-- Facebook: https://facebook.com/gaming/kayeshaa7
+- Facebook Gaming: https://facebook.com/gaming/kayeshaa7
 - Youtube: https://youtube.com/kayeshaa7 
